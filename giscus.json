@@ -1,5 +1,5 @@
 {
-  "origins": ["https://ww.kuro.wiki", "https://mc.kuro.wiki", "http://192.168.31.196:3000"],
+  "origins": ["https://ww.kuro.wiki", "https://mc.kuro.wiki", "https://ww-kuro-wiki.pages.dev", "http://192.168.31.196:3000"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
 }
